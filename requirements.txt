@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+pydantic-settings
+httpx
+beautifulsoup4
+lxml
+python-dotenv
+
+playwright
+requests
+tzdata
