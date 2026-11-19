@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: metal-rates-fetch
+  cancel-in-progress: false
+
 jobs:
   fetch-rates:
     runs-on: ubuntu-latest
