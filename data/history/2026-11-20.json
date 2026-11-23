@@ -1,0 +1,134 @@
+{
+    "business_date": "2026-11-20",
+    "generated_at": "2026-11-23T16:29:11.118873+05:30",
+    "timezone": "Asia/Kolkata",
+    "status": "success",
+    "rates": [
+        {
+            "metal": "GOLD",
+            "source": "LBMA",
+            "session": "AM",
+            "price": 3583.85,
+            "currency": "USD",
+            "unit": "troy_ounce",
+            "rate_date": "2026-11-20"
+        },
+        {
+            "metal": "PLATINUM",
+            "source": "LBMA",
+            "session": "AM",
+            "price": 1310.65,
+            "currency": "USD",
+            "unit": "troy_ounce",
+            "rate_date": "2026-11-20"
+        },
+        {
+            "metal": "PALLADIUM",
+            "source": "LBMA",
+            "session": "AM",
+            "price": 897.5,
+            "currency": "USD",
+            "unit": "troy_ounce",
+            "rate_date": "2026-11-20"
+        },
+        {
+            "metal": "GOLD",
+            "source": "LBMA",
+            "session": "PM",
+            "price": 3569.8,
+            "currency": "USD",
+            "unit": "troy_ounce",
+            "rate_date": "2026-11-20"
+        },
+        {
+            "metal": "PLATINUM",
+            "source": "LBMA",
+            "session": "PM",
+            "price": 1326.7,
+            "currency": "USD",
+            "unit": "troy_ounce",
+            "rate_date": "2026-11-20"
+        },
+        {
+            "metal": "PALLADIUM",
+            "source": "LBMA",
+            "session": "PM",
+            "price": 902.0,
+            "currency": "USD",
+            "unit": "troy_ounce",
+            "rate_date": "2026-11-20"
+        },
+        {
+            "metal": "SILVER",
+            "source": "LBMA",
+            "session": "PM",
+            "price": 42.365,
+            "currency": "USD",
+            "unit": "troy_ounce",
+            "rate_date": "2026-11-20"
+        },
+        {
+            "metal": "RHODIUM",
+            "source": "JM",
+            "session": "AM",
+            "price": 9000.0,
+            "currency": "USD",
+            "unit": "troy_ounce",
+            "rate_date": "2026-11-20"
+        },
+        {
+            "metal": "IRIDIUM",
+            "source": "JM",
+            "session": "AM",
+            "price": 10150.0,
+            "currency": "USD",
+            "unit": "troy_ounce",
+            "rate_date": "2026-11-20"
+        },
+        {
+            "metal": "RUTHENIUM",
+            "source": "JM",
+            "session": "AM",
+            "price": 1850.0,
+            "currency": "USD",
+            "unit": "troy_ounce",
+            "rate_date": "2026-11-20"
+        },
+        {
+            "metal": "SILVER999_AM",
+            "source": "IBJA",
+            "session": "AM",
+            "price": 150650.0,
+            "currency": "INR",
+            "unit": "kg",
+            "rate_date": "2026-11-20"
+        },
+        {
+            "metal": "SILVER999_PM",
+            "source": "IBJA",
+            "session": "PM",
+            "price": 152528.0,
+            "currency": "INR",
+            "unit": "kg",
+            "rate_date": "2026-11-20"
+        },
+        {
+            "metal": "USD_INR",
+            "source": "RBI",
+            "session": "DAILY",
+            "price": 92.9699,
+            "currency": "INR",
+            "unit": "per_currency_unit",
+            "rate_date": "2026-11-20"
+        },
+        {
+            "metal": "EUR_INR",
+            "source": "RBI",
+            "session": "DAILY",
+            "price": 102.1504,
+            "currency": "INR",
+            "unit": "per_currency_unit",
+            "rate_date": "2026-11-20"
+        }
+    ]
+}
